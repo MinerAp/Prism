@@ -9,6 +9,8 @@
 			<groupId>me.botsko</groupId>
 			<artifactId>elixr</artifactId>
 			<version>1.0-dev-35-gd287aff-SNAPSHOT</version>
+		    <scope>system</scope>
+		    <systemPath>${project.basedir}/elixr.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.bukkit</groupId>
